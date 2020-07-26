@@ -1,7 +1,4 @@
-/* NAME: SHIVANGI RAWAT
-   SECTION: DS 
-   ROLL NO: 2013504
- */
+
 	import java.io.*;
                 
 public class wordfreqcount2 {
